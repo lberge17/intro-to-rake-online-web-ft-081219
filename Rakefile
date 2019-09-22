@@ -10,3 +10,20 @@ namespace :greeting do
   end
 end
 
+desc ''
+task :console do
+  
+end
+
+namespace :db do
+  desc ''
+  task :migrate do
+    
+  end
+  
+  desc ''
+  task :seed do
+    
+  end
+end
+
