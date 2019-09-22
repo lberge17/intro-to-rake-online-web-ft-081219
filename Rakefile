@@ -3,7 +3,7 @@ task :hello do
   puts "hello from Rake!"
 end
 
-task :greeting do
-  
+task :hola do
+  puts "hola de Rake!"
 end
 
